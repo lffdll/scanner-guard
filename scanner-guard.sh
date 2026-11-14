@@ -10,7 +10,8 @@
 
 set -euo pipefail
 
-VERSION="1.0.0"
+VERSION="1.0.1"
+# Last modified: 2026-11-15 00:52 RTZST (test push)
 SCRIPT_URL="${SCANNER_GUARD_SCRIPT_URL:-https://raw.githubusercontent.com/lffdll/scanner-guard/main/scanner-guard.sh}"
 DEFAULT_SOURCE="https://raw.githubusercontent.com/shadow-netlab/traffic-guard-lists/refs/heads/main/public/government_networks.list"
 
